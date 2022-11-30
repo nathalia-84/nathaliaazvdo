@@ -1,8 +1,8 @@
 ### Olá pessoal 👋
 
-- 🌱 Atualmente estou aprendendo Desenvolvimento Backend
+- 🌱 Atualmente estou aprendendo Desenvolvimento Front-end
 - 👯 Estou procurando colaborar em Projetos Incríveis
-- 🤔 Estou procurando ajuda com Programação Funcional
+- 🤔 Estou procurando ajuda com Programação Orientada a Objetos
 
 ## Ferramentas e Tecnologias
 
